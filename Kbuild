@@ -85,3 +85,4 @@ $(CPUDIR)/$(SOC)/asm-offsets.s: $(CPUDIR)/$(SOC)/asm-offsets.c FORCE
 
 $(obj)/$(offsets-file): $(CPUDIR)/$(SOC)/asm-offsets.s
 	$(call cmd,offsets)
+an extra line
