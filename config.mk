@@ -3,7 +3,7 @@
 # Wolfgang Denk, DENX Software Engineering, wd@denx.de.
 #
 # SPDX-License-Identifier:	GPL-2.0+
-#
+# added comment by simon
 #########################################################################
 
 # This file is included from ./Makefile and spl/Makefile.
