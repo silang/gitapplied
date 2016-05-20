@@ -6,7 +6,7 @@
 
 #####
 # 1) Generate generic-asm-offsets.h
-
+# commment Simon
 generic-offsets-file := include/generated/generic-asm-offsets.h
 
 always  := $(generic-offsets-file)
