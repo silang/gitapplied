@@ -3,7 +3,7 @@
 # This file takes care of the following:
 # 1) Generate generic-asm-offsets.h
 # 2) Generate asm-offsets.h
-
+# This is a comment by Simon
 #####
 # 1) Generate generic-asm-offsets.h
 # commment Simon
