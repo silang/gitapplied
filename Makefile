@@ -6,7 +6,7 @@
 # This is a different comment 
 # Here is another change in master by Simon
 
-VERSION = 2014
+VERSION = 2016
 PATCHLEVEL = 04
 SUBLEVEL =
 EXTRAVERSION = -rc2
